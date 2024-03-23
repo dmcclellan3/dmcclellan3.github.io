@@ -44,7 +44,7 @@ If I feel like I'm getting stuck or just spinning my wheels I'll just take a ste
 
 ### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
 
-It's been really interesting to see each piece of what goes into a page.  The foundational piece being HTML which provides the text and content on the page.  CSS is also important which provides the ability to give styling elements that are attracting to the eye.  JavaScript also being an important layer that in a way enables how a page behaves or functions.  
+It's been really interesting to see each piece of what goes into a page.  The foundational piece being HTML which provides the text and content on the page.  CSS is also important which provides the ability to give styling elements that are attracting to the eye.  JavaScript also being an important layer that incorporates functionality.  
 
 
 ### What are some objects that your blog incorporates?
