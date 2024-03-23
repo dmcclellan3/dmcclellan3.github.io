@@ -18,7 +18,7 @@
 
 
 
-## March 15th 2024
+## Week 2
 
 ### What is something you wish you could do but currently do not have the coding skills to accomplish?
 
@@ -38,6 +38,18 @@ I think that so far I've tried to use the rubber duck method that we've been tau
 ### What methods do you use to help yourself get unstuck?
 
 If I feel like I'm getting stuck or just spinning my wheels I'll just take a step away from it for a few minutes and not think about it.  After a few minutes I'll come back and see if something clicks.  If not, I'll get online and research the issue and the fix for it or I'll reach out to the help channel in slack. 
+
+
+## Week 3 
+
+### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+
+It's been really interesting to see each piece of what goes into a page.  The foundational piece being HTML which provides the text and content on the page.  CSS is also important which provides the ability to give styling elements that are attracting to the eye.  JavaScript also being an important layer that incorporates functionality.  
+
+
+### What are some objects that your blog incorporates?
+
+I don't currently have CSS or JavaScript incorporated in my blog at the moment.  I do plan to continue coming back and making changes as we go along that reflect some different concepts that we are learning as we progress through the camp. 
 
 
 
