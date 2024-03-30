@@ -52,6 +52,17 @@ It's been really interesting to see each piece of what goes into a page.  The fo
 I don't currently have CSS or JavaScript incorporated in my blog at the moment.  I do plan to continue coming back and making changes as we go along that reflect some different concepts that we are learning as we progress through the camp. 
 
 
+## Week 4
+
+### What was helpful during Onboarding working remotely?
+
+
+### What hindered your progress during Onboarding?
+
+
+### How did you overcome challenges during Onboarding?
+
+
 
 
 
