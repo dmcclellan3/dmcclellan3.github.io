@@ -52,6 +52,22 @@ It's been really interesting to see each piece of what goes into a page.  The fo
 I don't currently have CSS or JavaScript incorporated in my blog at the moment.  I do plan to continue coming back and making changes as we go along that reflect some different concepts that we are learning as we progress through the camp. 
 
 
+## Week 4
+
+### What was helpful during Onboarding working remotely?
+
+Working remotely was helpful for me during onboarding because it allowed me to finish working with my previous company.  It was great to be able to have an additional month of having income from my previous job and benefits before heading into the bootcamp for the next few months.  
+
+
+### What hindered your progress during Onboarding?
+
+I think one of the difficulties of working remotely during onboarding is that the primary method of learning is by reading a lot of documentation.  I'm definitely a visual and auditory learner so it was challenging for me for process all of the information that was coming at me while building the projects that were required.  I'm really looking forward to being able to learn in person this week.
+
+### How did you overcome challenges during Onboarding?
+
+With being so new to the world of software development I had to research things often to be able to solve different coding issues.  I also would take advantage of the help channel in slack if I really got stuck on a particular problem.  I would do my best to figure it out on my own but would have that available if I really needed it.  
+
+
 
 
 
