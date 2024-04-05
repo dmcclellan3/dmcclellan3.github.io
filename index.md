@@ -67,6 +67,21 @@ I think one of the difficulties of working remotely during onboarding is that th
 
 With being so new to the world of software development I had to research things often to be able to solve different coding issues.  I also would take advantage of the help channel in slack if I really got stuck on a particular problem.  I would do my best to figure it out on my own but would have that available if I really needed it.  
 
+### Bootcamp Sprint 1
+
+What is the number one thing that held you back this week? Why?
+
+I think what held me back the most was not asking for help sooner.  It's easy to get overwhelmed when the project is assigned but going forward if I'm stuck on something I'm going to reach out for some direction sooner. 
+
+What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+Javascript 
+
+What is your “Why”?
+
+I don't have a specific thing in mind about Javascript but I want to get more practice with it and grow my knowledge base around what all I can do within the language.  
+
+
 
 
 
