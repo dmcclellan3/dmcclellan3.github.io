@@ -67,7 +67,7 @@ I think one of the difficulties of working remotely during onboarding is that th
 
 With being so new to the world of software development I had to research things often to be able to solve different coding issues.  I also would take advantage of the help channel in slack if I really got stuck on a particular problem.  I would do my best to figure it out on my own but would have that available if I really needed it.  
 
-### Bootcamp Sprint 1
+## Bootcamp Sprint 1
 
 What is the number one thing that held you back this week? Why?
 
