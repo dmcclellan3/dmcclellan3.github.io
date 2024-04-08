@@ -69,15 +69,15 @@ With being so new to the world of software development I had to research things 
 
 ## Bootcamp Sprint 1
 
-What is the number one thing that held you back this week? Why?
+### What is the number one thing that held you back this week? Why?
 
 I think what held me back the most was not asking for help sooner.  It's easy to get overwhelmed when the project is assigned but going forward if I'm stuck on something I'm going to reach out for some direction sooner. 
 
-What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+### What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
 
 Javascript 
 
-What is your “Why”?
+### What is your “Why”?
 
 I don't have a specific thing in mind about Javascript but I want to get more practice with it and grow my knowledge base around what all I can do within the language.  
 
