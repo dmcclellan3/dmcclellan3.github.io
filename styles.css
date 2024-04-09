@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+    position:relative;
+}
+h4{
+    text-align: center;
+}
+.img{
+    height: 5px;
+}
