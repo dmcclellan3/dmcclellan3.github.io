@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     height: 95vh;
-    position:relative;
+    /* position:relative; */
 }
 h4{
     text-align: center;
@@ -11,12 +11,56 @@ h4{
 
 
 #icons{
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     display: flex;
-    
+    text-align: center;
+    justify-content: space-between;
+     
 }
+
+/* #Email{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+#facebook{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* padding-left: 5rem;
+    padding-right: 5rem; */
+/* }  */
+
+/* #github{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* padding-left: 5rem;
+    padding-right: 5rem;
+} */
+/* #instagram{
+    width: 50px;
+    height: 50px;
+    display: flex; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* padding-left: 5rem;
+    padding-right: 5rem;
+} */ 
+
 
 body{
     background-color: #09795e;
+    margin: auto;
+    padding: auto;
 }
