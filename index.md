@@ -82,6 +82,21 @@ Javascript
 I don't have a specific thing in mind about Javascript but I want to get more practice with it and grow my knowledge base around what all I can do within the language.  
 
 
+## Bootcamp Sprint 2
+
+### What did you learn about that helped you understand the development process?
+
+
+### What does it mean to develop good code?
+
+
+### What does it mean to be a good developer?
+
+
+### What is one thing that programmers hate doing?
+
+
+
 
 
 
