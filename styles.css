@@ -5,9 +5,9 @@
     height: 100vh;
     /* position:relative; */
 }
-h4{
+/* h4{
     text-align: center;
-}
+} */
 
 
 #icons{
@@ -21,8 +21,10 @@ h4{
 
 .card-body{
     align-items: center;
-    justify-content: space-around;
-    /* padding-left: 40px;  */
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 90px; 
+    padding-right: 90px;
 }
 
 /* /* #Email{
