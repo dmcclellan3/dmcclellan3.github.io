@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "dmcclellan3.github.io-6",
+			"path": "."
+		},
+		{
+			"name": "Contact-Card-Icons",
+			"path": "../../Contact-Card-Icons"
+		},
+		{
+			"name": "contact-card-img",
+			"path": "../../contact-card-img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dmcclellan3.github.io-6"
+	}
+}
