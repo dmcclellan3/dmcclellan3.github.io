@@ -86,18 +86,21 @@ I don't have a specific thing in mind about Javascript but I want to get more pr
 
 ### What did you learn about that helped you understand the development process?
 
+I think something that has helped me in regards to the development process is the use of wireframes and pseudocoding. When taking the extra time to think about what specific elements my project is going to need I'm able to write better code and limit going back to correct any mistakes or adding things in that were left out. 
+
 
 ### What does it mean to develop good code?
 
+It has been talked about a lot already in the past couple weeks but I think developing good code starts with good pseudocode.  Starting with the logic in what it is that you are trying to build first then translating that into the programming language. I believe it helps limit mistakes, prevents important details from being left out and can prevent you from repeating yourself when writing code. 
 
 ### What does it mean to be a good developer?
+
+I think good developers have several skill sets that make them ideal for the role.  They're good researchers and have the ability to find their answer when troubleshooting a problem. I believe a good developer also keeps in mind the end user in how a product will ultimately be utilized and are able to work with others well on a team. 
 
 
 ### What is one thing that programmers hate doing?
 
-
-
-
+Probably trying to sort through code that hasn't been written well and doesn't have any notes associated with it. 
 
 
 
