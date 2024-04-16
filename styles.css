@@ -1,74 +1,27 @@
-.container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    /* position:relative; */
-}
-/* h4{
+h1,h2{
     text-align: center;
-} */
-
-
-#icons{
-    width: 40px;
-    height: 40px;
-    display: flex;
-    text-align: center;
-    /* justify-content: space-between; */
-     
 }
 
-.card-body{
-    align-items: center;
-    justify-content: space-between;
-    text-align: center;
-    padding-left: 90px; 
-    padding-right: 90px;
-}
 
-/* /* #Email{
-    width: 50px;
-    height: 50px;
-    display: flex;
-    justify-content: flex-start;
+#header-photo{
+    height: 400px;
+    width: 300px;
+    justify-content: left;
     text-align: left;
-    padding-left: 5rem;
-    padding-right: 5rem;
+    border-radius: 10px;
+    
 }
-
-#facebook{
-    width: 50px;
-    height: 50px;
-    display: flex;
-    /* justify-content: center; */
-    /* text-align: center; */
-    /* padding-left: 5rem;
-    padding-right: 5rem; */
-/* }  */
-
-/* #github{
-    width: 50px;
-    height: 50px;
-    display: flex;
-    /* justify-content: center; */
-    /* text-align: center; */
-    /* padding-left: 5rem;
-    padding-right: 5rem;
-} */
- /* #instagram{
-    width: 50px;
-    height: 50px;
-    display: flex; */
-    /* justify-content: center; */
-    /* text-align: center; */
-    /* padding-left: 5rem;
-    padding-right: 5rem;
-} */
-
 
 body{
-    background-color: #09795e;
-    margin: auto;
-    padding: auto;
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    background-color: rgb(211, 209, 209);
 }
+
+#contact-link{
+    justify-content: right;
+    align-items: right;
+}
+

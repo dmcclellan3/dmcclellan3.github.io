@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+#icons{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    text-align: center;
+   
+     
+}
+
+.card-body{
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 90px; 
+    padding-right: 90px;
+}
+    
+
+
+body{
+    background-color: #09795e;
+    margin: auto;
+    padding: auto;
+}
