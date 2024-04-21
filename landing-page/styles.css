@@ -28,11 +28,29 @@
 }
 
 #photo{
-    height: 500px;
+    height: 550px;
     width: 400px;
     border-radius: 5px;
 }
 
-#blog-link{
-    left: -40px;
+#links{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding-top: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
+
+/* #blog-link{
+    justify-content: left;
+    align-items: left;
+    width: 50px;
+}
+
+#contact-link{
+    justify-content: right;
+    align-items: right;
+    width: 60px;
+    padding-left: 30px;
+} */
