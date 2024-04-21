@@ -7,37 +7,32 @@
     background-color: rgb(139, 190, 253);
     height: 450px;
     width: screen;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
     padding-top: 75px;
 
 }
 
 #text-box{
-    height: 500px;
+    height: 375px;
     width: 400px;
     background-color: rgb(75, 75, 76);
     position:relative;
     float:right;
-    /* margin-right: 150px; */
-    /* margin-top: 70px; */
-    /* padding-top: 30px; */
     color:rgb(244, 244, 244);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    /* align-items: center; */
-    /* justify-content: end; */
-    /* padding-left: 100px; */
-    /* border-left: 100px; */
     border-radius: 5px;
+    padding: 25px;
 
 }
 
 #photo{
-    /* padding-top: 50px; */
-    /* padding-left: 50px; */
-    /* margin-left: 50px; */
     height: 500px;
     width: 400px;
     border-radius: 5px;
+}
+
+#blog-link{
+    left: -40px;
 }
