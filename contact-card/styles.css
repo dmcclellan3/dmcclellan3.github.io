@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+#icons{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    text-align: center;
+   
+     
+}
+
+.card-body{
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 90px; 
+    padding-right: 90px;
+}
+    
+
+
+body{
+    background-image: linear-gradient(
+  65deg,
+  hsl(150deg 14% 11%) 0%,
+  hsl(149deg 30% 12%) 11%,
+  hsl(149deg 45% 14%) 22%,
+  hsl(148deg 59% 15%) 33%,
+  hsl(147deg 74% 16%) 44%,
+  hsl(146deg 89% 16%) 56%,
+  hsl(144deg 100% 17%) 67%,
+  hsl(141deg 100% 19%) 78%,
+  hsl(136deg 100% 21%) 89%,
+  hsl(131deg 97% 23%) 100%
+);
+    margin: auto;
+    padding: auto;
+}
